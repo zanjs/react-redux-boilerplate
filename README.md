@@ -1,5 +1,7 @@
 # React Redux Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-redux-boilerplate.svg)](https://greenkeeper.io/)
+
 A boilerplate for React && Redux
 
 ## Contains
